@@ -1,0 +1,21 @@
+body {
+  background-color: #1c1c1c;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#relogio {
+  font-size: 80px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #00ffcc;
+}
